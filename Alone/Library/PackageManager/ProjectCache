@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637765792382329161
-    m_Hash: 1286365629
+      ticks: 637769101410419114
+    m_Hash: 404351696
   m_LockFileStatus:
     m_FilePath: E:/Unity/Alone/Alone-UnityBuild/Alone/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637765792383646758
-    m_Hash: 916157657
+      ticks: 637769101411131733
+    m_Hash: 4022691400
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -151,12 +151,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.8.2
     nextVersion: 
-- packageId: com.unity.collab-proxy@1.15.4
+- packageId: com.unity.collab-proxy@1.15.7
   testable: 0
   isDirectDependency: 1
-  version: 1.15.4
+  version: 1.15.7
   source: 1
-  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.collab-proxy@1.15.4
+  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.collab-proxy@1.15.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -266,13 +266,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637726568460000000
+  datePublishedTicks: 637744672890000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 1275603954ad33bee601fe2c9a3c787b3d4e4c6b
+    revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
     path: 
   unityLifecycle:
     version: 1.15.4
@@ -323,7 +323,7 @@ m_ResolvedPackages:
   - name: com.unity.ide.visualstudio
     version: 2.0.12
   - name: com.unity.test-framework
-    version: 1.1.29
+    version: 1.1.30
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -331,7 +331,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.7
+    version: 3.0.9
   - name: com.unity.ide.vscode
     version: 1.2.4
   - name: com.unity.editorcoroutines
@@ -363,12 +363,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.1
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.7
+- packageId: com.unity.ide.rider@3.0.9
   testable: 0
   isDirectDependency: 1
-  version: 3.0.7
+  version: 3.0.9
   source: 1
-  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.ide.rider@3.0.7
+  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.ide.rider@3.0.9
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -431,13 +431,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637572251600000000
+  datePublishedTicks: 637762012950000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: 3007c42a679bbe2c082c276e8d79279110964553
+    revision: bbc029723f4d157f759dba0f2d438dfcec2e73eb
     path: 
   unityLifecycle:
     version: 3.0.7
@@ -488,7 +488,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.29
+    version: 1.1.30
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -788,12 +788,88 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.3
     nextVersion: 
-- packageId: com.unity.test-framework@1.1.29
+- packageId: com.unity.progrids@3.0.3-preview.6
   testable: 0
   isDirectDependency: 1
-  version: 1.1.29
+  version: 3.0.3-preview.6
   source: 1
-  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.test-framework@1.1.29
+  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+  assetPath: Packages/com.unity.progrids
+  name: com.unity.progrids
+  displayName: ProGrids
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Advanced grid and object snapping for the scene view. ProGrids is
+    a dynamically placed grid, available on all 3 axes and at any position in the
+    scene.
+
+
+    ProGrids snaps objects in world space, ensuring consistent placement
+    of objects in your level.
+
+
+    In addition, ProGrids is completely customizable.
+    Change the colors of your grid, the snap sizing, unit of measurement, and more!'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 3.0.1-preview
+    - 3.0.2-preview
+    - 3.0.3-preview.0
+    - 3.0.3-preview.4
+    - 3.0.3-preview.5
+    - 3.0.3-preview.6
+    compatible:
+    - 3.0.1-preview
+    - 3.0.2-preview
+    - 3.0.3-preview.0
+    - 3.0.3-preview.4
+    - 3.0.3-preview.5
+    - 3.0.3-preview.6
+    verified: 
+  dependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.2
+  resolvedDependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  keywords:
+  - grid
+  - snap
+  - manipulation
+  - array
+  - align
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637209307060000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/com.unity.progrids.git
+    revision: 381f2b0b5dda11525d53e2c608284a3f68d1beff
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.test-framework@1.1.30
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.30
+  source: 1
+  resolvedPath: E:\Unity\Alone\Alone-UnityBuild\Alone\Library\PackageCache\com.unity.test-framework@1.1.30
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -870,13 +946,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637647922650000000
+  datePublishedTicks: 637702469360000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: dac53542acdab7a12e9ebf111ac588d0e53cf483
+    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+    revision: 4a3f541cb46e2f6875b3a938daba8c7113020873
     path: 
   unityLifecycle:
     version: 1.1.29
@@ -3362,7 +3438,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.29
+    version: 1.1.30
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
